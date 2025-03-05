@@ -48,6 +48,15 @@ $ conda create -n PDSH python=3.5 --file requirements.txt
 
 You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
 
+## Visualization
+The display of histograms has been optimized.
+
+The optimization content includes the addition of image name annotation and the optimization of color scheme.
+
+The color scheme of this version is mainly a dynamic gradient, and the reading method of identifying the size of the data by color change has been added.
+
+It's still being updated. The following is what has been completed so far:
+- The Rainfall in Seattle (2015) in notebook_02.06-Booleam-Arrays-and-Masks.ipynb
 
 ## License
 
